@@ -1,4 +1,4 @@
-# Conversor de Moedas
+# Conversor de Moedas 🪙
 
 Aplicação web para converter valores em reais (BRL) para dólar americano (USD), euro (EUR), libra esterlina (GBP) ou Bitcoin (BTC). Este projeto foi desenvolvido para praticar HTML, CSS e JavaScript.
 
@@ -8,7 +8,7 @@ O site já está publicado pelo GitHub Pages:
 
 [Acessar o Conversor de Moedas](https://mbrito0.github.io/Convert-Money-DevClub/)
 
-## Funcionalidades
+## Funcionalidades 
 
 - Conversão de Real Brasileiro para dólar, euro, libra esterlina e Bitcoin.
 - Exibição do nome e da imagem da moeda selecionada.
