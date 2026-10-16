@@ -1,14 +1,14 @@
-# Conversor de Moedas 🪙
+<h1 align="center">Conversor de Moedas 🪙</h1>	
 
-Aplicação web para converter valores em reais (BRL) para dólar americano (USD), euro (EUR), libra esterlina (GBP) ou Bitcoin (BTC). Este projeto foi desenvolvido para praticar HTML, CSS e JavaScript.
+Aplicação web para converter valores em reais (BRL) para dólar americano (USD), euro (EUR), libra esterlina (GBP) ou Bitcoin (BTC).<br>Este projeto foi desenvolvido para praticar HTML, CSS e JavaScript.
 
-## Acesse o site
+## Acesse o site 
 
 O site já está publicado pelo GitHub Pages:
 
 [Acessar o Conversor de Moedas](https://mbrito0.github.io/Convert-Money-DevClub/)
 
-## Funcionalidades 
+## Funcionalidades 🌣
 
 - Conversão de Real Brasileiro para dólar, euro, libra esterlina e Bitcoin.
 - Exibição do nome e da imagem da moeda selecionada.
@@ -17,13 +17,13 @@ O site já está publicado pelo GitHub Pages:
 
 > As cotações estão definidas diretamente no código e não são atualizadas em tempo real.
 
-## Tecnologias
+## Tecnologias ✅
 
 - HTML
 - CSS
 - JavaScript
 
-## Como abrir no computador
+## Como abrir no computador 💻
 
 1. Clone o repositório usando o terminal:
 
@@ -36,7 +36,7 @@ O site já está publicado pelo GitHub Pages:
 
 Não é necessário instalar dependências.
 
-## Publicar com GitHub Pages
+## Publicar com GitHub Pages 🌐
 
 1. Abra o repositório [Convert-Money-DevClub](https://github.com/MBrito0/Convert-Money-DevClub) no GitHub.
 2. Clique em **Settings**.
@@ -46,7 +46,7 @@ Não é necessário instalar dependências.
 6. Clique em **Save**.
 7. Aguarde alguns minutos e abra o endereço indicado no início deste README.
 
-## Arquivos principais
+## Arquivos principais 📁
 
 ```text
 index.html   Estrutura da página
